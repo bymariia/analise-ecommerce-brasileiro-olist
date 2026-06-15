@@ -98,11 +98,11 @@ O dashboard é composto por **3 páginas**:
 
 **Produtos e Pagamentos** — Top 10 categorias por receita, distribuição por forma de pagamento e ticket médio por número de parcelas.
 
-[Visão Executiva](docs/prints/visao_executiva.png) 
+![Visão Executiva](docs/prints/visao_executiva.png) 
 
-[Operações e Logística](docs/prints/operacoes_logistica.png)
+![Operações e Logística](docs/prints/operacoes_logistica.png)
 
-[Produtos e Pagamentos](docs/prints/produtos_pagamentos.png)
+![Produtos e Pagamentos](docs/prints/produtos_pagamentos.png)
 
 ---
 
