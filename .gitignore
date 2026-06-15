@@ -1,0 +1,17 @@
+# Dados (não versionar - muito pesados e o usuário baixa do Kaggle)
+data/raw/
+data/processed/
+data/output/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
